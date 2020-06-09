@@ -12,3 +12,4 @@ the separator is ','
 1 2
 1 6
 the separator is ' '
+Citation: Asmi, K., Lotfi, D., & El Marraki, M. (2017). Large-scale community detection based on a new dissimilarity measure. Social Network Analysis and Mining, 7(1), 17.
